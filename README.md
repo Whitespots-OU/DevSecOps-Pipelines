@@ -1,7 +1,5 @@
 # Application Security pipelines
 
-# What is it for 
-
 ## Summary
 
 This open-source framework is designed for application security managers and engineers to increase the speed of integration of security practices into the development lifecycle.
@@ -31,7 +29,7 @@ Risks:
 
 
 
-# 1. Setup pipelines
+## 1. Setup pipelines
 
 [Gitlab group with all repositories](https://gitlab.com/whitespots-public)
 
@@ -42,16 +40,16 @@ Risks:
 
 [![Setup](https://img.youtube.com/vi/DLN1kNh_Ha0/0.jpg)](https://www.youtube.com/watch?v=DLN1kNh_Ha0)
 
-# 2. Triage vulnerabilities in DefectDojo
+## 2. Triage vulnerabilities in DefectDojo
 
 [![triage](https://img.youtube.com/vi/_uFOIf1BUwU/0.jpg)](https://www.youtube.com/watch?v=_uFOIf1BUwU)
 
 
-# 3. Integrate more difficult checks
+## 3. Integrate more difficult checks
 
 [![triage](https://img.youtube.com/vi/5NnEBGNLzyE/0.jpg)](https://www.youtube.com/watch?v=5NnEBGNLzyE)
 
-# 4. Contact us
+## 4. Contact us
 
 [Email](mailto:sales@whitespots.io)
 
