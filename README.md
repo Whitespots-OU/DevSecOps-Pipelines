@@ -33,7 +33,12 @@ Risks:
 
 # 1. Setup pipelines
 
-[The gitlab group with all repositories](https://gitlab.com/whitespots-public)
+[Gitlab group with all repositories](https://gitlab.com/whitespots-public)
+
+[Pipelines repo](https://gitlab.com/whitespots-public/pipelines)
+
+[Security images repo](https://gitlab.com/whitespots-public/security-images)
+
 
 [![Setup](https://img.youtube.com/vi/DLN1kNh_Ha0/0.jpg)](https://www.youtube.com/watch?v=DLN1kNh_Ha0)
 
