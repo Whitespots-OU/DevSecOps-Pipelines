@@ -37,8 +37,7 @@ Risks:
 
 [Security images repo](https://gitlab.com/whitespots-public/security-images)
 
-
-(Click, it's video)
+[Youtube video](https://www.youtube.com/watch?v=DLN1kNh_Ha0)
 
 [![Setup](https://j.gifs.com/w08n5z.gif)](https://www.youtube.com/watch?v=DLN1kNh_Ha0)
 
