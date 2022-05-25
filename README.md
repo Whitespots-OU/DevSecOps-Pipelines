@@ -1,6 +1,6 @@
-# Application Security pipelines
+# Application Security pipelines 🚀
 
-## Summary
+## 📜 Summary
 
 This open-source framework is designed for application security managers and engineers to increase the speed of integration of security practices into the development lifecycle.
 
@@ -8,7 +8,9 @@ Here you may see the process demonstration:
 
 [![Process demonstration](https://j.gifs.com/16zVqG.gif)](https://www.youtube.com/watch?v=6FGV4OcrIB8)
 
-## Requirements
+([**Youtube video**](https://www.youtube.com/watch?v=6FGV4OcrIB8))
+
+## ⚙️ Requirements
 
 ### Engeneering
 
@@ -37,10 +39,9 @@ Risks:
 
 [Security images repo](https://gitlab.com/whitespots-public/security-images)
 
-
-(Click, it's video)
-
 [![Setup](https://j.gifs.com/w08n5z.gif)](https://www.youtube.com/watch?v=DLN1kNh_Ha0)
+
+([**Youtube video**](https://www.youtube.com/watch?v=DLN1kNh_Ha0))
 
 
 ## 2. Triage vulnerabilities in DefectDojo
@@ -49,12 +50,16 @@ Risks:
 
 [![triage](https://j.gifs.com/z6Nq5O.gif)](https://www.youtube.com/watch?v=_uFOIf1BUwU)
 
+([**Youtube video**](https://www.youtube.com/watch?v=_uFOIf1BUwU))
+
 
 ## 3. Integrate more difficult checks
 
 (Click, it's video)
 
 [![triage](https://j.gifs.com/J8jEAv.gif)](https://www.youtube.com/watch?v=5NnEBGNLzyE)
+
+([**Youtube video**](https://www.youtube.com/watch?v=5NnEBGNLzyE))
 
 ## 4. Contact us
 
