@@ -6,7 +6,7 @@ This open-source framework is designed for application security managers and eng
 
 Here you may see the process demonstration:
 
-[![Process demonstration](https://img.youtube.com/vi/6FGV4OcrIB8/0.jpg)](https://www.youtube.com/watch?v=6FGV4OcrIB8)
+[![Process demonstration](https://j.gifs.com/16zVqG.gif)](https://www.youtube.com/watch?v=6FGV4OcrIB8)
 
 ## Requirements
 
@@ -38,16 +38,23 @@ Risks:
 [Security images repo](https://gitlab.com/whitespots-public/security-images)
 
 
-[![Setup](https://img.youtube.com/vi/DLN1kNh_Ha0/0.jpg)](https://www.youtube.com/watch?v=DLN1kNh_Ha0)
+(Click, it's video)
+
+[![Setup](https://j.gifs.com/w08n5z.gif)](https://www.youtube.com/watch?v=DLN1kNh_Ha0)
+
 
 ## 2. Triage vulnerabilities in DefectDojo
 
-[![triage](https://img.youtube.com/vi/_uFOIf1BUwU/0.jpg)](https://www.youtube.com/watch?v=_uFOIf1BUwU)
+(Click, it's video)
+
+[![triage](https://j.gifs.com/z6Nq5O.gif)](https://www.youtube.com/watch?v=_uFOIf1BUwU)
 
 
 ## 3. Integrate more difficult checks
 
-[![triage](https://img.youtube.com/vi/5NnEBGNLzyE/0.jpg)](https://www.youtube.com/watch?v=5NnEBGNLzyE)
+(Click, it's video)
+
+[![triage](https://j.gifs.com/J8jEAv.gif)](https://www.youtube.com/watch?v=5NnEBGNLzyE)
 
 ## 4. Contact us
 
